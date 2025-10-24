@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-🌱 I’m currently learning python and java
-- ⚡ Fun fact: My cat is orange
+🌱 I’m currently learning python(Flask) and java
+⚡ Fun fact: My cat is orange
 <!--
 **nokoniko/nokoniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
