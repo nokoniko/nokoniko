@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning python(Flask) and react
 ⚡ Fun fact: My cat is orange
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokoniko&layout=compact&theme=tokyonight&locale=no)
 <!--
 **nokoniko/nokoniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
