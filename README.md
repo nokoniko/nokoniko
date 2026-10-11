@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🌱 I’m currently learning python(Flask) and react
+🌱 I’m currently learning rust and react
 ⚡ Fun fact: My cat is orange
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokoniko&show_icons=true&theme=tokyonight&layout=donut-vertical)](https://github.com/nokoniko/github-readme-stats)
